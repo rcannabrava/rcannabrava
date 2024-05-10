@@ -1,4 +1,4 @@
-### Hi, i'm Rodrigo! 👋
+## Hi, i'm Rodrigo! 👋
   • Computer science student! <br>
   • Always learning!<br>
   • Looking for my first experience!
