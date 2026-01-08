@@ -1,7 +1,8 @@
 ## Hi, i'm Rodrigo! 👋
-  • Computer science student! <br>
-  • Always learning!<br>
-  • Looking for my first experience!
+  🎓 Computer science student <br>
+  💻 Always learning <br>
+  🚀 Looking for my first experience <br>
+  🌎 International experience in San Francisco
 
 ###  I am learning 📖 
 <div>
